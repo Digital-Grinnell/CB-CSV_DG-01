@@ -1,6 +1,14 @@
 # CB-CSV_DG-01
 
-The Google Sheet for this project is https://docs.google.com/spreadsheets/d/1ic4PxHDbuzDrmf4YtauhC4vEQJxt3QSH8bYfLBCM3Gc/edit#gid=586145055.
+The Google Sheet for this project is https://docs.google.com/spreadsheets/d/1ic4PxHDbuzDrmf4YtauhC4vEQJxt3QSH8bYfLBCM3Gc/.
+
+## Generate the Collection Locally
+
+The _CB_ documentation's [Jekyll Serve](https://collectionbuilder.github.io/cb-docs/docs/repository/generate/#jekyll-serve) section tells us to generate a local copy of the site using:
+
+```sh
+bundle exec jekyll s
+```
 
 ## CollectionBuilder-CSV
 
